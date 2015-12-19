@@ -39,8 +39,10 @@ Le projet se déroulera en plusieurs phase de réalisation afin de pouvoir effec
 - phase 6 : (optionnel)
     Cette phase permet de valider le module de charge du robot. Il doit être capble de prévenir son utilisateur qu il arrive en fin de charge et retrouver sa base pour se recharger automatiquement.
     
-# Utilisation "ARDUINO" pour développemnt rapide
+# Outils du projet
 Afin de rendre le développement rapide, le projet utilisera les outils suivants:
-- GitHub via Git
-- Ino
+- GitHub via Git (commiter ses sources)
+- Ino (installation IDE Arduino officiel en prérequis)
 - Librairie Arduino
+- Logiciel pour récupérer l'USB Arduino comme Putty (console dans l'IDE arduino)
+Ses outils ont été choisi pour rendre le développement "Custom", se rendre indépendant de l'environnement arduino sans pour autant s 'en éloigné de trop donc facilement utilisable avec un peu de recherche 

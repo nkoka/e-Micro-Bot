@@ -14,3 +14,5 @@ TBD
 Ce module permet au robot de se déplacer. Une instance de ce module est nécessaire par roue. Il prend une consigne de vitesse en entrée via un tableau de conversion vitesse/angle et fournit une angle de rotation au servomoteur du robot.
 Le module permet de :
 - Initialiser le module en chargeant le tableau de conversion vitesse/angle
+
+TBC

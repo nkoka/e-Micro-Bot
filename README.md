@@ -1,19 +1,19 @@
-## e-Micro-Bot 
+# e-Micro-Bot 
 Projet de creation d'une base logicielle robotique 
 Utilisation : Pour comprendre et apprendre les bases logicielles associes  la robotique
 Le projet est modulable et doit rest modulable afin d'utiliser que les modules ncessaire
 
-# Fonctionnalités e-Micro-Bot
+## Fonctionnalités e-Micro-Bot
 Ce robot a pour but de se déplacer dans une zone découverte.
 La mot "découverte" signiife qu'il devra découvrir son environnement et principalement
 la(les) pièce(s) où il évolue.
 Attention, ce robot ne gère pas la montée/descente de marche. Il ne possède pas de fonction de détection de marche/escalier. Les chutes peuvent détruire le robot.
 La navigation du robot sera aléatoire.
 
-# Etape de réalisation
+## Etape de réalisation
 Le projet se déroulera en plusieurs phase de réalisation afin de pouvoir effectué une validation des réalisation par phase. Chaque phase devra être validé par des tests unitaires ou de validations
 
-# Phases de développement
+## Phases de développement
 - Phase 1 : 
     La premiere phase de validation dot peut etre de lancer sur le robot des applicatifs qui permettent de valider le hardware soit :
         - Le module accéléromètre/gyroscope
@@ -39,7 +39,11 @@ Le projet se déroulera en plusieurs phase de réalisation afin de pouvoir effec
 - phase 6 : (optionnel)
     Cette phase permet de valider le module de charge du robot. Il doit être capble de prévenir son utilisateur qu il arrive en fin de charge et retrouver sa base pour se recharger automatiquement.
     
-# Outils du projet
+## Arborescence projet
+
+voir fichier Arbo.md
+    
+## Outils du projet
 Afin de rendre le développement rapide, le projet utilisera les outils suivants:
 - GitHub via Git (commiter ses sources)
 - Ino (installation IDE Arduino officiel en prérequis)
